@@ -196,4 +196,4 @@ Add screenshots of the game interface here when available.
 
 **Lyson Paulus Esar Manik**
 
-GitHub: [TODO: GitHub Profile URL]
+
