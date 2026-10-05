@@ -143,7 +143,7 @@ def minimax(board, depth, alpha, beta, maximizing, last):
     return best
 
 
-# ------------------------------------------------ Langkah 3: langkah terbaik AI
+
 def find_best_move(board, random_prob=0.0):
     empties = [i for i, v in enumerate(board) if v == EMPTY]
     if random_prob and random.random() < random_prob:
